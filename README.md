@@ -1,8 +1,10 @@
 # Escape Room Microwave
 > A game artifact for an Escape Room which looks just like a microwave.
-
-<img src="res/microwave.png" height="200px" />
-<img src="res/microwave_opened.png" height="170px" />
+<p align="center">
+  <img alt="Light" src="res/microwave.png" width="48%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="res/microwave_opened.png" width="42%">
+</p>
 
 The microwave serves as a container of a clue in an Escape Room. This clue
 should be located on the turntable. The microwave is locked during the game and can be opened by entering a correct key sequence via the touch control panel.
